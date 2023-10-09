@@ -41,7 +41,7 @@ Here are some ways you can save money when getting started:
 - Stick to free plugins
 - Stick to free services
 - Host your server yourself
-- Don't pay your staff
+- Find people willing to volunteer there time while you get your server started
 
 ### Free Plugins
 
