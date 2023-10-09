@@ -18,3 +18,13 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [Starting A Minecraft Network](/guides/Starting%20A%20Network.md) | A guide to planning and starting a Minecraft network. | WIP |
 | [Spark](/guides/spark.md) | A simple guide to using [spark](https://modrinth.com/mod/spark). | WIP |
 
+## Statuses
+
+| Status | Description |
+| ------ | ----------- |
+| WIP | Work in progress  Guide may be incomplete or have incorrect information.|
+| Complete | Guide is complete and should have correct information. |
+| Outdated | Guide is outdated and may have incorrect information. |
+| Deprecated | Guide is deprecated and should not be used. |
+
+
