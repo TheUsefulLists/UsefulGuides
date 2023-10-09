@@ -28,3 +28,4 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | Deprecated | Guide is deprecated and should not be used. |
 
 
+[![Home](/images/button_small/home.png)](/README.md)
