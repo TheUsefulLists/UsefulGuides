@@ -13,6 +13,6 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 ## Downloading Spark
 
-You can dowload the latest version of Spark [here](https://spark.lucko.me/download).
+You can download the latest version of Spark [here](https://spark.lucko.me/download).
 
 [![Home](/images/button_small/home.png)](/README.md)
