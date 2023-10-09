@@ -80,6 +80,12 @@ A list of things you need to do to get started with your network:
 - [ ] Make a plan
 - [ ] Research the details of your plan
 - [ ] Research what core plugins you want to use
+- [ ] Setup basic server infrastructure
+- [ ] Configure servers core config files
+- [ ] Connect servers to proxy and databases
+- [ ] Test connections
+- [ ] Setup core plugins
+- [ ] Test core plugins
 
 
 
