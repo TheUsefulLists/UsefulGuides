@@ -14,12 +14,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 Table of Contents
 - [Starting A Minecraft Network (WIP)](#starting-a-minecraft-network-wip)
   - [Making a plan](#making-a-plan)
-  - [Details](#details)
-  - [Network Getting Started TODO](#network-getting-started-todo)
-  - [Example Completed Plan and Details](#example-completed-plan-and-details)
-    - [Plan](#plan)
-    - [Details](#details-1)
-    - [Core Plugins](#core-plugins)
+  - [Preparing to put your plan into action](#preparing-to-put-your-plan-into-action)
 
 
 ## Making a plan
@@ -35,6 +30,13 @@ Before you start a network, you need to make a plan. This plan should include:
 - What your server will look like
 - What your server will be about
 
+See th following sections for more information on each of these.
+
+[GameModes](/minecraft%20server%20network%20guides/GameModes.md)
+[Budget](/minecraft%20server%20network%20guides/Budget.md)
+[Features](/minecraft%20server%20network%20guides/Features.md)
+[Hosting](/minecraft%20server%20network%20guides/Hosting.md)
+
 An example plan:
 
 | Question | Answer |
@@ -47,100 +49,26 @@ An example plan:
 | what will our server look like? | A modern, clean theme |
 | what will our server be about? | A competitive yet enjoyable experience |
 
-## Details
+## Preparing to put your plan into action
 
-Details you need to consider and note down when starting a network:
+Now that you have a plan, you need to prepare to put it into action. This includes:
 
-| Question | Example Answer |
-| -------- | -------------- |
-| Will you be hosting it yourself or using a hosting provider? | Hosting provider |
-| if using a hosting provider, How will you pay for it? | XYZ's job |
-| What hosting provider will you use? | BisectHosting |
-| Will you be using shared hosting or a dedicated server? | Dedicated server |
-| Which minecraft server software will you use? | Paper or Purpur |
-| How much RAM will you need for the minecraft servers? | 32GB |
-| Which proxy software will you use? | Velocity or Waterfall |
-| How much RAM will you need for your proxy? | 2GB |
-| How much storage will you need? | 100GB |
-| Will you need other extra features from your hosting provider, if so what? | Web Hosting |
-| How will you handle data backups? | Daily backups on the host, second copy off site at XYZ's home |
-| How will you handle DDoS protection? | TCPShield |
-| How will you handle player support? | Discord tickets |
-| How will you handle player reports? | Discord tickets|
-| How will you handle player suggestions? | Discord public suggestion card channel |
-| How will you handle player feedback? | Discord |
-| How will you handle player bug reports? | Discord tickets |
-| How will you handle player appeals? | Discord tickets |
-
-
-## Network Getting Started TODO
-
-A list of things you need to do to get started with your network:
-
-- [ ] Make a plan
-- [ ] Research the details of your plan
-- [ ] Research what core plugins you want to use
-- [ ] Setup basic server infrastructure
-- [ ] Configure servers core config files
-- [ ] Connect servers to proxy and databases
-- [ ] Test connections
-- [ ] Setup core plugins
-- [ ] Test core plugins
-
-
-
-## Example Completed Plan and Details
-
-XYZ is starting a network, they have made a plan and researched the details of their plan.
-
-### Plan
-
-| Question | Answer |
-| -------- | ------ |
-| what game modes do we want? | Survival, Prison, Factions |
-| what features do we want to make us stand out? | Custom enchants, custom mobs, custom items |
-| what is our budget? | $100/month |
-| what is our target audience? | 13-18 year olds |
-| what will our server be called? | Example Network |
-| what will our server look like? | A modern, clean theme |
-| what will our server be about? | A competitive yet enjoyable experience |
-
-### Details
-
-| Question | Answer |
-| -------- | ------ |
-| Will you be hosting it yourself or using a hosting provider? | Hosting provider |
-| if using a hosting provider, How will you pay for it? | XYZ's job |
-| What hosting provider will you use? | BisectHosting |
-| Will you be using shared hosting or a dedicated server? | Dedicated server |
-| Which minecraft server software will you use? | Paper or Purpur |
-| How much RAM will you need for the minecraft servers? | 32GB |
-| Which proxy software will you use? | Velocity or Waterfall |
-| How much RAM will you need for your proxy? | 2GB |
-| How much storage will you need? | 100GB |
-| Will you need other extra features from your hosting provider, if so what? | Web Hosting |
-| How will you handle data backups? | Daily backups on the host, second copy off site at XYZ's home |
-| How will you handle DDoS protection? | TCPShield |
-| How will you handle player support? | Discord tickets |
-| How will you handle player reports? | Discord tickets |
-| How will you handle player suggestions? | Discord public suggestion card channel |
-| How will you handle player feedback? | Discord |
-| How will you handle player bug reports? | Discord tickets |
-| How will you handle player appeals? | Discord tickets |
-
-### Core Plugins
-
-| Plugin | Description |
-| ------ | ----------- |
-| LuckPerms | Permissions |
-| Vault | Economy and permissions api |
-| EssentialsX | Essentials |
-| FAWE | required for world guard |
-| WorldGuard | World protection |
-| BungeeTabListPlus | Tab list |
-| ProtocolLib | Required for BungeeTabListPlus |
-| PlaceholderAPI | Placeholders |
-| ViaVersion + backwards | other version support |
+- Researching your plan details
+- Deciding weather to use a hosting service or host yourself
+- Deciding what software to use
+- Deciding what plugins to use
+- - Core Plugins
+- - Game Mode Specific Plugins
+- Deciding what staff you need
+- Deciding how you will advertise your server
+- Deciding how you will pay for your server
+- Deciding how much ram you will need
+- Deciding what version you will use
+- Deciding which server software you will use
+- Deciding which proxy software you will use
+- Deciding how much storage you will need
+- Deciding how will you handle player support, suggestions, and feedback
+- Making rules
 
 
 
