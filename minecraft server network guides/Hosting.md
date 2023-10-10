@@ -29,13 +29,13 @@ What are the pros of using a hosting provider?
 - You don't have to worry about hardware
 - You don't have to worry about electricity
 - You don't have to worry about internet
-- You don't have to worry about security
+- You don't have to worry about security (you do if you use a dedicated server)
 - You don't have to worry about maintenance
 - You get support from the hosting provider
 
 What are the cons of using a hosting provider?
 - You have to pay for hosting
-- You have limited control over your server
+- You have limited control over your server (less limited if using a dedicated server)
 - You have to rely on the hosting provider to keep your server online
 
 ### Types of hosting plans
