@@ -55,7 +55,7 @@ Virtual Private Server (VPS) hosting is a type of hosting that is in between sha
 
 [BisectHosting](https://bisecthosting.com/UsefulLists) is a hosting provider that offers Minecraft server hosting. They offer a wide range of plans, and have a good reputation.
 
-[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
 ## Self Hosting
