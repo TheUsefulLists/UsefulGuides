@@ -9,7 +9,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](/images/button_small/home.png)](/README.md)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 
 ## Table of Contents
 - [Budget](#budget)
@@ -74,5 +74,5 @@ If you are going to self host, you should make sure you have a good internet con
 
 See [Self Hosting](/minecraft%20server%20network%20guides/Hosting.md#Self%20Hosting) for more information on self hosting.
 
-[![Home](/images/button_small/home.png)](/README.md)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 

@@ -9,7 +9,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](/images/button_small/home.png)](/README.md)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 
 Table of Contents
 - [Starting A Minecraft Network (WIP)](#starting-a-minecraft-network-wip)
@@ -72,4 +72,4 @@ Now that you have a plan, you need to prepare to put it into action. This includ
 
 
 
-[![Home](/images/button_small/home.png)](/README.md)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
