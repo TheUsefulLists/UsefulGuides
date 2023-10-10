@@ -20,6 +20,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
     - [Choosing Hardware](#choosing-hardware)
       - [How much ram do you need?](#how-much-ram-do-you-need)
       - [What CPU do you need?](#what-cpu-do-you-need)
+      - [How much storage do you need?](#how-much-storage-do-you-need)
 
 ## Hosting Providers
 
@@ -135,3 +136,32 @@ The CPU you need depends on a few things:
   - Modded servers generally need more CPU power than plugin based servers, At least 4 threads per server is recommended. When modded server are started they can use a lot of CPU power, but once they are started they don't use as much CPU power. As an example, a modded server based on All The Mods 8 peaks at over 10 thread when starting.
 - What other software you'll be running
   - Databases, management panels, and other software will need CPU power. Ideally you should have at least 4 threads for other software.
+
+
+#### How much storage do you need?
+
+The amount of storage you need depends on a few things:
+- Storage for databases
+- Storage for backups
+- Storage for server files
+- Storage for other software
+  - Operating system
+  - Management panel
+  - Other software
+
+Databases and other software will need some storage but not a lot, 100GB should be enough for most cases with room to spare. If your not running this on a separate box from your personal computer, you'll need quite a bit more storage for your operating system and other software.
+
+Backups can need quite a lot of storage, depending on how many backups you keep, how big your server files are, and how often you take backups. You should have at least 1TB of storage for backups, but more is better.
+
+Server files can need a lot of storage, depending on how many servers you want to run, and how big the server files are. You should have at least a few hundred GB of storage for server files, but more is better.
+
+Fast vs slow storage:
+- Fast storage is good for databases, management panel, and server files where they will be accessed often.
+- Slow storage is good for backups where they won't be accessed often.
+- Other software can use either fast or slow storage, depending on the software and what is dose.
+
+You can put everything on fast storage, but it will cost considerably more than using a mix of fast and slow storage.
+
+For fast storage you'll want to use NVMe SSDs, as they are the fastest type of storage available. For slow storage you'll want to use HDDs, as they are the cheapest type of storage available.
+
+You should get at least 2 of each disk and set them up in a RAID 1 array. This will give you redundancy, so if one drive fails you won't lose any data. It will also give you a performance boost, as data can be read from both drives at the same time. RAID 1 is also known as mirroring, as the data is mirrored on both drives such that if one drive fails the other drive has a full copy of the data.
