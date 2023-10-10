@@ -20,7 +20,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 ### BisectHosting
 
-BisectHosting is a hosting provider that offers Minecraft server hosting. They offer a wide range of plans, and have a good reputation.
+[BisectHosting](https://bisecthosting.com/UsefulLists) is a hosting provider that offers Minecraft server hosting. They offer a wide range of plans, and have a good reputation.
 
 [![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
