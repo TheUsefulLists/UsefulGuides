@@ -30,7 +30,7 @@ Before you start a network, you need to make a plan. This plan should include:
 - What your server will look like
 - What your server will be about
 
-See th following sections for more information on each of these.
+See the following sections for more information on each of these.
 
 [GameModes](/minecraft%20server%20network%20guides/GameModes.md)
 [Budget](/minecraft%20server%20network%20guides/Budget.md)
