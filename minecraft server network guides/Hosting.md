@@ -21,6 +21,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
       - [How much ram do you need?](#how-much-ram-do-you-need)
       - [What CPU do you need?](#what-cpu-do-you-need)
       - [How much storage do you need?](#how-much-storage-do-you-need)
+      - [Special Circumstances](#special-circumstances)
 
 ## Hosting Providers
 
@@ -98,6 +99,7 @@ When choosing hardware, you'll need to consider a few things:
 - How much ram you need
 - What CPU you need
 - How much storage you need
+- Special Circumstances
 
 #### How much ram do you need?
 
@@ -165,3 +167,9 @@ You can put everything on fast storage, but it will cost considerably more than 
 For fast storage you'll want to use NVMe SSDs, as they are the fastest type of storage available. For slow storage you'll want to use HDDs, as they are the cheapest type of storage available.
 
 You should get at least 2 of each disk and set them up in a RAID 1 array. This will give you redundancy, so if one drive fails you won't lose any data. It will also give you a performance boost, as data can be read from both drives at the same time. RAID 1 is also known as mirroring, as the data is mirrored on both drives such that if one drive fails the other drive has a full copy of the data.
+
+#### Special Circumstances
+
+If you are to use a CPU with out integrated graphics like an AMD Ryzen 7950X, you'll need a GPU. It doesn't need to be super powerful as you'll only use it for the initial setup and when you need to troubleshoot something or make changes.
+
+With a linux based operating system, you can run it in a "headless" mode where it has no graphical output but it's not recommended for beginners.
